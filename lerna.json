@@ -11,6 +11,6 @@
       "registry": "https://registry.npmjs.org"
     }
   },
-  "npmClient": "yarn",
+  "npmClient": "npm",
   "version": "6.5.0"
 }
