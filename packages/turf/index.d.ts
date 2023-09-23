@@ -41,7 +41,7 @@ export { default as pointOnFeature } from "@turf/point-on-feature";
 export { default as area } from "@turf/area";
 export { default as along } from "@turf/along";
 export { default as length } from "@turf/length";
-export { default as lineSlice } from "@turf/line-slice";
+export { default as lineSlice } from "@vatopt/line-slice";
 export { default as lineSliceAlong } from "@turf/line-slice-along";
 export { default as pointGrid } from "@turf/point-grid";
 export { default as truncate } from "@turf/truncate";

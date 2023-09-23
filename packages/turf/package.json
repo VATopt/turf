@@ -140,7 +140,7 @@
     "@turf/line-offset": "^6.5.0",
     "@turf/line-overlap": "^6.5.0",
     "@turf/line-segment": "^6.5.0",
-    "@turf/line-slice": "^6.5.0",
+    "@vatopt/line-slice": "^6.5.0",
     "@turf/line-slice-along": "^6.5.0",
     "@turf/line-split": "^6.5.0",
     "@turf/line-to-polygon": "^6.5.0",
