@@ -1,5 +1,5 @@
 {
-  "name": "@turf/line-slice",
+  "name": "@vatopt/line-slice",
   "version": "6.5.0",
   "description": "turf line-slice module",
   "author": "Turf Authors",
@@ -30,15 +30,15 @@
   "exports": {
     "./package.json": "./package.json",
     ".": {
+      "types": "./dist/js/index.d.ts",
       "import": "./dist/es/index.js",
       "require": "./dist/js/index.js"
     }
   },
-  "types": "index.d.ts",
+  "types": "dist/js/index.d.ts",
   "sideEffects": false,
   "files": [
-    "dist",
-    "index.d.ts"
+    "dist"
   ],
   "scripts": {
     "bench": "node -r esm bench.js",
